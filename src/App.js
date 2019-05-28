@@ -6,6 +6,7 @@ import SimpleFormClass from './SimpleFormClass'
 import SimpleFormHooks from './SimpleFormHooks'
 import SimpleFormInputHook from './SimpleFormInputHook'
 import Clicker from './Clicker'
+import SWMovies from './SWMovies'
 import './App.css'
 
 function App() {
@@ -17,7 +18,8 @@ function App() {
       <SimpleFormClass />
       <SimpleFormHooks /> */}
       {/* <SimpleFormInputHook /> */}
-      <Clicker />
+      {/* <Clicker /> */}
+      <SWMovies />
     </div>
   )
 }
